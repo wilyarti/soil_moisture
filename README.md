@@ -3,4 +3,4 @@ Soil Moisture Sensor on LoRaWAN using OBP. Uses a capacitive soil moisture senso
 
 Add your own OBP keys to the secrets.h file.
 
-![alt text]("https://github.com/wilyarti/soil_moisture/blob/master/soilmoisturesensor.jpg")
+![alt text](https://github.com/wilyarti/soil_moisture/blob/master/soilmoisturesensor.jpg)
